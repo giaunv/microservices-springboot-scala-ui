@@ -1,4 +1,4 @@
-# Microservices demo with Spring Boot, MongoDB, Scala, tutorial by @plainoldobjects.com
+# Microservices demo with Spring Boot, MongoDB, Scala, Java 8, tutorial by @plainoldobjects.com
 
 # Credits
 
